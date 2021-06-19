@@ -2,7 +2,7 @@
 
 Feel free to contribute. Your help is much appreciated
 
-Link: https://bitan-banerjee.github.io/Personal-portfolio-website/
+Link: https://bitan-banerjee.github.io/Portfolio/
 
 ## ScreenShorts
 
